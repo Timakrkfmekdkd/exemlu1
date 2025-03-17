@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(73, 180, 69);
+    color: blueviolet;
+}
+
+p{
+   color: crimson; 
+   font-size:200% ;
+   background-color: black;
+}
+
+h4{
+    color: aqua;
+}
